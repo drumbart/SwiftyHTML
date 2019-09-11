@@ -1,6 +1,6 @@
 {
   "name": "SwiftyHTML",
-  "version": "0.1.8",
+  "version": "0.2.0",
   "summary": "A delightful framework for converting HTML to native Swift classes.",
   "description": "A delightful framework for converting HTML to native Swift classes as well as generating HTML from native Swift classes and attributes.",
   "homepage": "https://github.com/drumbart/SwiftyHTML",
@@ -13,14 +13,14 @@
   },
   "source": {
     "git": "https://github.com/drumbart/SwiftyHTML.git",
-    "tag": "0.1.8"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "9.0"
   },
   "source_files": "SwiftyHTML/Classes/**/*.{swift}",
   "pod_target_xcconfig": {
-    "SWIFT_VERSION": "3.0"
+    "SWIFT_VERSION": "4.2"
   },
   "frameworks": "Foundation"
 }

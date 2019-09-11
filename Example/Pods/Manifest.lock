@@ -1,5 +1,5 @@
 PODS:
-  - SwiftyHTML (0.1.8)
+  - SwiftyHTML (0.2.0)
 
 DEPENDENCIES:
   - SwiftyHTML (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftyHTML: 7bb9decd2d08a3dfff68d364fad753d54bdaab61
+  SwiftyHTML: 9aa42e656c2b235713863c1bbd52062638a68844
 
 PODFILE CHECKSUM: edaf8a68b4b14080cb20983459951974895f146e
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.6.1
