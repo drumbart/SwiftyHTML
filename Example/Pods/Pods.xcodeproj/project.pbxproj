@@ -63,12 +63,12 @@
 
 /* Begin PBXFileReference section */
 		011892F8CEC809C21B064933C648B092 /* SwiftyHTML.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SwiftyHTML.modulemap; sourceTree = "<group>"; };
-		081F318BF2974BB30462EDB721C23F1A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		081F318BF2974BB30462EDB721C23F1A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		116A496052C49635242339E6DD5E5CB5 /* Pods-SwiftyHTML_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftyHTML_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		14F0DE03E9125101AEA96F248D5B7D0C /* String+HTMLConvert.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "String+HTMLConvert.swift"; sourceTree = "<group>"; };
-		15CED5C09884C1B40D44E0506D5E58F2 /* SwiftyHTML.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SwiftyHTML.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		15CED5C09884C1B40D44E0506D5E58F2 /* SwiftyHTML.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SwiftyHTML.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		27A00DEA959CEF57587605E7E505B039 /* DivAttributeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DivAttributeParser.swift; sourceTree = "<group>"; };
-		2CDE6E3CE2ABC1DF865339BE3E3B90AF /* Pods_SwiftyHTML_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyHTML_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CDE6E3CE2ABC1DF865339BE3E3B90AF /* Pods_SwiftyHTML_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftyHTML_Tests.framework; path = "Pods-SwiftyHTML_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F1A7484084B6417F826E4E5F27E7621 /* AnchorFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AnchorFactory.swift; sourceTree = "<group>"; };
 		308D5418A0F4EA662A152CE4A7A03783 /* Pods-SwiftyHTML_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftyHTML_Tests-Info.plist"; sourceTree = "<group>"; };
 		30B8DB96DAC220B0A36E070BC2DA01B3 /* TagAttribute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = TagAttribute.swift; sourceTree = "<group>"; };
@@ -83,7 +83,7 @@
 		57759148A895778E66478C5112314EE8 /* SwiftyHTML-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SwiftyHTML-Info.plist"; sourceTree = "<group>"; };
 		5D3435B1867BCB93A4F5DED52EB79246 /* Href.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Href.swift; sourceTree = "<group>"; };
 		61C260FFC5EAD10A5A4EF3D5E7DCE104 /* Div.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Div.swift; sourceTree = "<group>"; };
-		66EFA49B731AF42B51572B91E8F8C5FD /* SwiftyHTML.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftyHTML.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		66EFA49B731AF42B51572B91E8F8C5FD /* SwiftyHTML.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SwiftyHTML.framework; path = SwiftyHTML.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		67DDA9D0028FCED02D4DE392B4D550F6 /* Anchor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Anchor.swift; sourceTree = "<group>"; };
 		6E0F3DFC430E42B0BEAE13AF2A3D30FA /* Pods-SwiftyHTML_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftyHTML_Example.release.xcconfig"; sourceTree = "<group>"; };
 		73A7C99AAC6C80482EA0AA42AB8397FA /* Pods-SwiftyHTML_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SwiftyHTML_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		8F4B34D9956743081278DC416F9E851B /* StringRepresentable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringRepresentable.swift; sourceTree = "<group>"; };
 		92776888E3653B75528E4CAB7127B569 /* DivFactory.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = DivFactory.swift; sourceTree = "<group>"; };
 		95E1B815D7144575A3A5C1E18F007993 /* UIColor+Convenience.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "UIColor+Convenience.swift"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A64CF6D148F964CE749CF883F49CBB8A /* Pods-SwiftyHTML_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SwiftyHTML_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		A754FF7946AE0A06904C8E79FB3B0023 /* Pods-SwiftyHTML_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SwiftyHTML_Tests.modulemap"; sourceTree = "<group>"; };
 		A7E64BCB50D47B2299ED1656E007C41F /* AttributedStringParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = AttributedStringParser.swift; sourceTree = "<group>"; };
@@ -115,10 +115,10 @@
 		CB4607EFCA7C5F75397649E792E2AFCB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		CFBCF450153C75F6E5AF996923856E68 /* Pods-SwiftyHTML_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-SwiftyHTML_Tests-dummy.m"; sourceTree = "<group>"; };
 		D593A3B0A100DA67FB1ABCDA39D7C06A /* HrefAttributeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = HrefAttributeParser.swift; sourceTree = "<group>"; };
-		E28C7B39B96BA018914361C39A50FA05 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E28C7B39B96BA018914361C39A50FA05 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		F184B8CCE38386924931F07506E9B531 /* Style.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = Style.swift; sourceTree = "<group>"; };
 		F32928B52584F666D394CE3EFFC89A86 /* StyleAttributeParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StyleAttributeParser.swift; sourceTree = "<group>"; };
-		FE51D708E0E71C8323BF7AF12F166C91 /* Pods_SwiftyHTML_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyHTML_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE51D708E0E71C8323BF7AF12F166C91 /* Pods_SwiftyHTML_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_SwiftyHTML_Example.framework; path = "Pods-SwiftyHTML_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +155,7 @@
 				76D5EDF211136D6D7EB00E4BF5FEC7B8 /* Alt.swift */,
 				F184B8CCE38386924931F07506E9B531 /* Style.swift */,
 			);
+			name = Attributes;
 			path = Attributes;
 			sourceTree = "<group>";
 		};
@@ -173,6 +174,7 @@
 				C171D538CFB61C142CC3300E6C3B94E1 /* Tag.swift */,
 				30B8DB96DAC220B0A36E070BC2DA01B3 /* TagAttribute.swift */,
 			);
+			name = Protocols;
 			path = Protocols;
 			sourceTree = "<group>";
 		};
@@ -281,6 +283,7 @@
 				61C260FFC5EAD10A5A4EF3D5E7DCE104 /* Div.swift */,
 				B64E47BD68D19B8AA32E0448DFED2A4A /* Span.swift */,
 			);
+			name = Tags;
 			path = Tags;
 			sourceTree = "<group>";
 		};
@@ -459,11 +462,6 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
 				LastUpgradeCheck = 0930;
-				TargetAttributes = {
-					55C644D74C421B7D2C4B0639A97C0D85 = {
-						LastSwiftMigration = 1010;
-					};
-				};
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -675,6 +673,37 @@
 			};
 			name = Release;
 		};
+		1EDF0D327137D449391FECD8F2E7B840 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 47BBF1AD534612D56CE95D471F72C34C /* SwiftyHTML.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SwiftyHTML/SwiftyHTML-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SwiftyHTML/SwiftyHTML-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/SwiftyHTML/SwiftyHTML.modulemap";
+				PRODUCT_MODULE_NAME = SwiftyHTML;
+				PRODUCT_NAME = SwiftyHTML;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		28306F9E2D8376AAEDDBF4827102C741 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 73A7C99AAC6C80482EA0AA42AB8397FA /* Pods-SwiftyHTML_Tests.debug.xcconfig */;
@@ -741,38 +770,6 @@
 			};
 			name = Debug;
 		};
-		622742AD6EC671C53847C704479DE1A2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 47BBF1AD534612D56CE95D471F72C34C /* SwiftyHTML.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SwiftyHTML/SwiftyHTML-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SwiftyHTML/SwiftyHTML-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/SwiftyHTML/SwiftyHTML.modulemap";
-				PRODUCT_MODULE_NAME = SwiftyHTML;
-				PRODUCT_NAME = SwiftyHTML;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.2;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		794E9545501FFF5B941161D33EDEE1C9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6E0F3DFC430E42B0BEAE13AF2A3D30FA /* Pods-SwiftyHTML_Example.release.xcconfig */;
@@ -807,7 +804,7 @@
 			};
 			name = Release;
 		};
-		9E3D05256A0C65EED6B7AB6AFF690D7A /* Release */ = {
+		9B01F04476AD92CF0D1E89B8E8318161 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 47BBF1AD534612D56CE95D471F72C34C /* SwiftyHTML.xcconfig */;
 			buildSettings = {
@@ -831,7 +828,6 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -893,7 +889,8 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
@@ -932,8 +929,8 @@
 		E13E411C952845425D8837A6AF60EFE9 /* Build configuration list for PBXNativeTarget "SwiftyHTML" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				622742AD6EC671C53847C704479DE1A2 /* Debug */,
-				9E3D05256A0C65EED6B7AB6AFF690D7A /* Release */,
+				1EDF0D327137D449391FECD8F2E7B840 /* Debug */,
+				9B01F04476AD92CF0D1E89B8E8318161 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
